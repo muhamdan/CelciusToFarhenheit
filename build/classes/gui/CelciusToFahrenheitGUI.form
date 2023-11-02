@@ -124,6 +124,9 @@
               </Events>
             </Component>
             <Component class="javax.swing.JTextField" name="tfFahrenheit">
+              <Properties>
+                <Property name="editable" type="boolean" value="false"/>
+              </Properties>
             </Component>
           </SubComponents>
         </Container>
